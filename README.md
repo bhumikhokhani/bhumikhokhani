@@ -15,12 +15,10 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-
-
 ### About me ⚡
 I'm pursuing my BE in Computer Science & Engineering and I love working with web-development, graphic designing and application development. Besides that I even work as a freelance content writer and UI/UX designer.
 
-### You can find my stuff here 😅 
+### You can find my work here 😅 
 - [Hashnode Blog](https://bhumikhokhani.hashnode.dev/)
 - [Dev.to](https://dev.to/bhumikhokhani/)
 - [Dribble](https://dribbble.com/Blend_Arts)
