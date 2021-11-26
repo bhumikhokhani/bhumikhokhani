@@ -27,7 +27,7 @@ I'm pursuing my BE in Computer Science & Engineering and I love working with web
 - [Instagram- 3D Art](https://www.instagram.com/blend_arts/)
 - [Instagram- Writings](https://www.instagram.com/worldy_feels/)
 
-### How to reach me 📫 
+### Contact me at 📫 
   <a href="mailto:bhumikhokhani@gmail.com?"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
   [![Twitter](https://img.shields.io/badge/TWITTER-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white)](https://twitter.com/bhumikhokhani)
   [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/bhumikhokhani/)
