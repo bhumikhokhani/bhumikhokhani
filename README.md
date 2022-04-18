@@ -20,12 +20,12 @@ Here are some ideas to get you started:
 I'm pursuing my BE in Computer Science & Engineering and I love working with web-development, graphic designing and application development. Besides that I even work as a freelance content writer and UI/UX designer.
 
 ### You can find my work here 😅 
-- [Hashnode Blog](https://bhumikhokhani.hashnode.dev/)
-- [Dev.to](https://dev.to/bhumikhokhani/)
-- [Dribble](https://dribbble.com/Blend_Arts)
-- [CodePen](https://codepen.io/bhumikhokhani/)
-- [Instagram- 3D Art](https://www.instagram.com/blend_arts/)
-- [Instagram- Writings](https://www.instagram.com/worldy_feels/)
+- [Hashnode Blog - Technical Writing](https://bhumikhokhani.hashnode.dev/)
+- [Dev.to - Technical Writing](https://dev.to/bhumikhokhani/)
+- [Dribble - 3D Blender Art](https://dribbble.com/Blend_Arts)
+- [CodePen - Playing with Frontend WebDev](https://codepen.io/bhumikhokhani/)
+- [Instagram- 3D Blender Art](https://www.instagram.com/blend_arts/)
+- [Instagram- Writing](https://www.instagram.com/worldy_feels/)
 
 ### Contact me at 📫 
   <a href="mailto:bhumikhokhani@gmail.com?"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
