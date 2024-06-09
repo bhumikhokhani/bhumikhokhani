@@ -20,10 +20,12 @@ Here are some ideas to get you started:
 I hold a Bachelor’s degree in Computer Science and currently work as a Product Associate. My work revolves around web development, graphic design, and application development. I’ve also got a knack for coding and programming, and have used these skills to build several projects. In addition to my main job, I also work as a freelance technical content writer and UI/UX designer.
 
 ### You can find my work here 💁🏻‍♀️ 
+- [My Complete Experience](https://www.linkedin.com/in/bhumikhokhani/details/experience/)
 - [Hashnode Blog - Technical Writing](https://bhumikhokhani.hashnode.dev/)
 - [Dev.to - Technical Writing](https://dev.to/bhumikhokhani/)
 - [Dribble - 3D Blender Art](https://dribbble.com/Blend_Arts)
 - [CodePen - Playing with Frontend WebDev](https://codepen.io/bhumikhokhani/)
+- [Tech and Non-tech Projects](https://www.linkedin.com/in/bhumikhokhani/details/projects/)
 - [Instagram- 3D Blender Art](https://www.instagram.com/blend_arts/)
 - [Instagram- Writing](https://www.instagram.com/worldy_feels/)
 <!--
