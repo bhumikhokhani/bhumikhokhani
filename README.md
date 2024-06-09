@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 <a href="https://app.daily.dev/bhumikhokhani"><img align="right" width="auto" height="500" src="https://api.daily.dev/devcards/81a60553a1c5447a9ee1c3c0e8475456.png?r=uoq" width="400" alt="Bhumi Khokhani's Dev Card"/></a>
 
 ### About me ⚡
-I'm currently working as a Product Associate and I love working with web development, graphic designing and application development. Besides that, I even work as a freelance content writer and UI/UX designer.
+I’m a Product Associate and I really enjoy web development, graphic design, and application development. I also do freelance work as a technical content writer and UI/UX designer. On top of that, I’m good at coding and programming, and I’ve built several projects.
 
 ### You can find my work here 💁🏻‍♀️ 
 - [Hashnode Blog - Technical Writing](https://bhumikhokhani.hashnode.dev/)
